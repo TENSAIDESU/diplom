@@ -2,7 +2,7 @@ import React from 'react'
 import './AuthorizationMain.css'
 import peopleWithKey from './peopleWithKey.svg';
 import padlock from './padlock.svg';
-import Form from './Form';
+import Form from './Form/Form';
 import { useSelector } from 'react-redux';
 
 const AuthorizationMain = () => {

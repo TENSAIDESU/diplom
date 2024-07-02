@@ -1,7 +1,6 @@
 import React, {useEffect, useState} from 'react'
-import Inputs from '../Inputs';
+import Inputs from '../Inputs/Inputs';
 import './Form.css';
-//import FormFooter from '../FormFooter';
 import { useDispatch, useSelector } from 'react-redux';
 import {useNavigate} from 'react-router-dom';
 import { dropStatus, signIn } from '../../../store/slices/profile';

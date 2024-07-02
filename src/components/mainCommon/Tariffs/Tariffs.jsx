@@ -1,6 +1,6 @@
 import React from 'react';
 import './Tariffs.css';
-import TariffCards from './TariffCards';
+import TariffCards from './TariffCards/TariffCards';
 
 const Tariffs = () => {
   return (

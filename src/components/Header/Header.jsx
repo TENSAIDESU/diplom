@@ -1,9 +1,9 @@
 import React from 'react';
 import './Header.css';
-import Logo from './Logo';
-import AccountBeforeAuthorization from './AccountBeforeAuthorization';
-import AccountAfterAuthorization from './AccountAfterAuthorization';
-import NavBar from './NavBar';
+import Logo from './Logo/Logo';
+import AccountBeforeAuthorization from './AccountBeforeAuthorization/AccountBeforeAuthorization';
+import AccountAfterAuthorization from './AccountAfterAuthorization/AccountAfterAuthorization';
+import NavBar from './NavBar/NavBar';
 import BurgerMenu from './BurgerMenu';
 import { useSelector } from 'react-redux';
 

@@ -2,7 +2,7 @@ import React from 'react';
 import './ResultPageMain.css';
 import aim from './womenAim.svg';
 import { useSelector } from 'react-redux';
-import PublicationCards from './PublicationCards';
+import PublicationCards from './PublicationCards/PublicationCards';
 import ResultCarouselDesktop from './ResultCarousel/ResultCarouselDesktop';
 import ResultCarouselMobile from './ResultCarousel/ResultCarouselMobile';
 import LoaderInfo from '../Header/AccountAfterAuthorization/LoaderInfo/LoaderInfo';

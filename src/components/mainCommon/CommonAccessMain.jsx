@@ -1,10 +1,10 @@
 import React from 'react';
 import './CommonAccessMain.css';
-import Description from './Description';
-import MainCarousel from './MainCarousel';
+import Description from './Description/Description';
+import MainCarousel from './MainCarousel/MainCarousel';
 import manWithTick from './manWithTick.svg'
-import Tariffs from './Tariffs';
-//import mainCommon from '.';
+import Tariffs from './Tariffs/Tariffs';
+
 
 
 const CommonAccessMain = () => {

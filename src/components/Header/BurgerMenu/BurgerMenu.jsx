@@ -4,7 +4,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Offcanvas from 'react-bootstrap/Offcanvas';
 import './BurgerMenu.css';
-import Logo from '../../Footer/Logo';
+import Logo from '../../Footer/Logo/Logo';
 import burger from './burger.svg';
 import { useNavigate } from "react-router-dom";
 
